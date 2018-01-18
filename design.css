@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+  }
+  
+  .pureForm{
+  margin:0 auto;
+      text-align:center;
+  }
+  
+  #randomUrl{
+      text-align:center;
+  }
+  
+  #displayResult{
+    margin:0 auto;
+  }
+  
+  .card{
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right:10px;
+      margin:0 auto;
+    width: 50%;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
